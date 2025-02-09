@@ -1,0 +1,36 @@
+id,director,duration,genre,language,rating,release_date,title
+1,"Anthony Russo, Joe Russo",149,action,eng,8.4,2018-04-26 00:00:00,Avengers: Infinity War
+2,David Yates,138,fantasy,eng,7.5,2007-07-27 00:00:00,Harry Potter and the Order of the Phoenix
+3,Donald Petrie,116,romance,eng,6.5,2003-01-27 00:00:00,How to Lose a Guy in 10 Days
+4,Christopher Nolan,148,thriller,eng,8.8,2010-07-30 00:00:00,Inception
+5,"Chris Buck, Jennifer Lee",102,animation,eng,7.4,2013-11-19 00:00:00,Frozen
+6,Nick Cassavetes,123,romance,eng,7.8,2004-05-20 00:00:00,The Notebook
+7,James Wan,112,horror,eng,7.5,2013-07-26 00:00:00,The Conjuring
+8,Rian Johnson,130,criminal,eng,7.9,2019-11-27 00:00:00,Knives Out
+9,Christopher Nolan,180,drama,eng,8.3,2023-07-21 00:00:00,Oppenheimer
+10,James Wan,140,action,eng,7.1,2015-04-10 00:00:00,Fast and Furious 7
+11,Rian Johnson,152,sci-fi,eng,6.9,2017-12-14 00:00:00,Star Wars: The Last Jedi
+12,Wes Anderson,100,comedy,eng,8.1,2014-03-28 00:00:00,The Grand Budapest Hotel
+13,Gary Ross,142,adventure,eng,6.7,2012-03-23 00:00:00,The Hunger Games
+14,Bradley Cooper,136,drama,eng,7.6,2018-10-05 00:00:00,A Star Is Born
+15,George Tillman Jr.,139,romance,eng,7.0,2015-04-10 00:00:00,The Longest Ride
+16,"Karim Amer, Jehane Noujaim",139,documentary,eng,7.0,2019-01-26 00:00:00,The Great Hack
+17,Kelsey Mann,96,animation,eng,7.6,2024-06-12 00:00:00,Inside Out 2
+18,Kenneth Branagh,114,criminal,eng,6.5,2017-11-24 00:00:00,Murder on the Orient Express
+19,Pierre Morel,93,thriller,eng,4.6,2008-08-15 00:00:00,Taken
+20,Will Gluck,103,romance,eng,6.1,2023-12-15 00:00:00,Anyone But You
+21,James Gunn,150,sci-fi,eng,7.9,2023-05-05 00:00:00,Guardians of the Galaxy Vol. 3
+22,Ridley Scott,155,drama,eng,8.5,2000-05-05 00:00:00,Gladiator
+23,Joseph Kosinski,130,action,eng,8.2,2022-05-27 00:00:00,Top Gun: Maverick
+24,Andy Muschietti,135,horror,eng,7.3,2017-09-08 00:00:00,IT
+25,Robert Luketic,96,comedy,eng,6.5,2001-07-13 00:00:00,Legally Blonde
+26,Jeff Orlowski,94,documentary,eng,7.6,2020-09-09 00:00:00,The Social Dilemma
+27,Dean DeBlois,102,animation,eng,7.8,2014-06-13 00:00:00,How to Train Your Dragon 2
+28,Peter Jackson,169,fantasy,eng,7.8,2012-12-14 00:00:00,The Hobbit: An Unexpected Journey
+29,Ridley Scott,144,sci-fi,eng,8.0,2015-10-02 00:00:00,The Martian
+30,Gabriele Muccino,117,drama,eng,8.0,2006-12-15 00:00:00,The Pursuit of Happyness
+31,Susanne Bier,124,thriller,eng,6.6,2018-12-21 00:00:00,Bird Box
+32,Louis Leterrier,115,thriller,eng,7.2,2013-05-31 00:00:00,Now You See Me
+33,Peter Jackson,99,documentary,eng,8.3,2018-10-16 00:00:00,They Shall Not Grow Old
+34,Damien Chazelle,128,romance,eng,8.0,2016-12-09 00:00:00,La La Land
+35,Marc Webb,101,drama,eng,7.6,2017-04-07 00:00:00,Gifted

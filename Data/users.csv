@@ -1,0 +1,102 @@
+id,city,date_of_birth,gender
+27,Gdańsk,1989-08-18 00:00:00,female
+28,Gdańsk,2001-07-10 00:00:00,male
+31,Gdańsk,2001-12-11 00:00:00,female
+32,Gdańsk,2001-09-16 00:00:00,male
+33,Warsaw,2001-02-16 00:00:00,male
+34,,,female
+35,Vienna,2001-07-16 00:00:00,female
+36,Gdańsk,2001-10-04 00:00:00,female
+38,Gdańsk,2001-01-16 00:00:00,female
+39,Gdańsk,2001-09-30 00:00:00,male
+40,Gdańsk,1987-01-29 00:00:00,male
+41,Gdańsk,2019-01-29 00:00:00,female
+42,Gdańsk,,female
+43,,,female
+44,Gdańsk,2003-05-01 00:00:00,female
+45,Gdańsk,2000-12-12 00:00:00,female
+46,Gdańsk,1988-07-20 00:00:00,male
+47,Poznań,2001-03-22 00:00:00,female
+48,Solingen,2001-02-18 00:00:00,female
+49,Gdańsk,2001-12-11 00:00:00,female
+50,gdańsk,2000-07-07 00:00:00,female
+51,Gdańsk,2004-05-22 00:00:00,female
+52,Gdynia,1997-02-27 00:00:00,female
+54,Gdańsk,1997-09-28 00:00:00,female
+55,Sierakowice,2004-07-12 00:00:00,male
+56,Gdańsk,2000-01-23 00:00:00,male
+57,Gdańsk,2002-12-04 00:00:00,female
+58,Gdańsk,2004-06-06 00:00:00,male
+59,Gdańsk,2004-08-23 00:00:00,male
+60,Gdańsk,2001-10-14 00:00:00,male
+62,Gdańsk,2001-04-16 00:00:00,male
+63,Gdańsk,2002-09-30 00:00:00,female
+64,,,female
+66,Gdańsk,2002-09-05 00:00:00,female
+67,Gdynia,1997-05-29 00:00:00,male
+68,Olsztyn,2001-04-11 00:00:00,female
+69,Gdańsk,2001-05-04 00:00:00,male
+70,Reda,2002-11-23 00:00:00,female
+73,Gdańsk,1990-12-01 00:00:00,female
+74,Włocławek,1958-11-03 00:00:00,male
+75,Włocławek,1969-12-01 00:00:00,female
+76,Gdańsk,2001-12-13 00:00:00,male
+77,Wrocław,1989-07-10 00:00:00,male
+78,Gdańsk,2003-12-05 00:00:00,female
+79,Gdańsk,2001-07-10 00:00:00,male
+80,Gdańsk,2001-04-10 00:00:00,female
+81,Gdańsk,2001-02-04 00:00:00,male
+82,Włocławek,2000-11-19 00:00:00,male
+83,Gdańsk,2003-07-29 00:00:00,male
+84,Gdańsk,1990-01-01 00:00:00,male
+85,Gdańsk,2001-10-31 00:00:00,female
+86,Gdańsk,1990-01-15 00:00:00,female
+87,Gdańsk,2005-01-21 00:00:00,male
+88,,1990-01-01 00:00:00,male
+89,Warszawa,1997-08-24 00:00:00,male
+90,Gdańsk,2001-12-11 00:00:00,male
+91,,,male
+92,Sopot,2002-01-27 00:00:00,female
+93,Gdynia,1997-03-08 00:00:00,female
+94,Warszawa,1982-12-30 00:00:00,male
+95,Szczecin,1987-08-03 00:00:00,male
+96,Warszawa,1976-01-04 00:00:00,male
+97,,,female
+98,Gdańsk,2005-08-14 00:00:00,female
+99,Pogórze,1997-11-26 00:00:00,male
+100,Bydgoszcz,2000-04-10 00:00:00,male
+101,,1999-10-03 00:00:00,female
+102,Poznań,2004-11-17 00:00:00,female
+103,Warszawa,2001-03-21 00:00:00,male
+104,Gdańsk,1990-08-18 00:00:00,female
+105,,2001-07-12 00:00:00,male
+106,Gdańsk,2004-05-15 00:00:00,male
+107,Gdańsk,2001-07-05 00:00:00,female
+108,Gdańsk,2000-06-05 00:00:00,male
+109,Warszawa,1997-11-30 00:00:00,female
+110,Gdańsk,2000-02-24 00:00:00,male
+111,Gdańsk,1994-07-12 00:00:00,female
+112,Gdańsk,2001-12-10 00:00:00,female
+113,Gdańsk,2001-09-22 00:00:00,male
+114,Warszawa,1975-02-15 00:00:00,female
+115,,,male
+116,,2002-07-21 00:00:00,female
+117,,,male
+118,Gdańsk,2001-03-20 00:00:00,male
+119,Gdańsk,2003-01-06 00:00:00,male
+120,Gdańsk,1976-01-07 00:00:00,male
+121,Gdynia,1992-04-14 00:00:00,male
+122,,2003-09-13 00:00:00,female
+123,Poznań,2000-09-08 00:00:00,female
+124,gdańsk,2005-07-09 00:00:00,female
+125,Szczecin,1987-07-23 00:00:00,female
+126,Szczecin,1983-03-02 00:00:00,male
+127,Sopot,2001-03-26 00:00:00,female
+128,Gdansk,2002-02-17 00:00:00,female
+129,Rogaška Slatina,2001-07-21 00:00:00,male
+130,Dublin,1981-01-25 00:00:00,male
+131,,2001-02-28 00:00:00,male
+132,Gdańsk,2001-08-17 00:00:00,male
+133,Gdańsk,1999-11-22 00:00:00,male
+134,Gdańsk,2002-06-08 00:00:00,female
+135,Gdańsk,2001-08-03 00:00:00,female

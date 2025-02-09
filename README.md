@@ -16,7 +16,7 @@ For any questions, feedback, or collaboration inquiries related to this dataset,
 - **Email**: [michal70005@gmail.com, martowiak@gmail.com, aleksandra.karpus@pg.edu.pl]   
 - **Website**: [Contextual Recommenders Data Acquisition System](https://recommendation-data-collection.pl/)  
 
-If you require access to camera view recordings, please request the access to [Google Drive](https://drive.google.com/drive/folders/1l6ljwbePTE7AGXeR8AK91yNyHtQNBBO9?usp=sharing) and submit [The Consent for Scientific Use of Camera Recordings](The Consent for Scientific Use of Camera Recordings) via Goolge Forms.
+If you require access to camera view recordings, please request the access to [Google Drive](https://drive.google.com/drive/folders/1l6ljwbePTE7AGXeR8AK91yNyHtQNBBO9?usp=sharing) and submit [The Consent for Scientific Use of Camera Recordings](https://docs.google.com/forms/d/e/1FAIpQLSdNNvwiscSzf4P9EraEAkUW8r8ZPtFu6egMOws0crNmSmkr_Q/viewform?usp=dialog) via Goolge Forms.
 
 ## Dataset Maintenance
 As the volume of gathered data continues to grow significantly, the repository will be **regularly updated and enriched** with new records.

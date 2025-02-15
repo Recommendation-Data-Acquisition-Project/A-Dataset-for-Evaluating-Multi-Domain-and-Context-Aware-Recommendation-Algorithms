@@ -1,4 +1,4 @@
-# A Dataset for Evaluating Multi-Domain and Context-Aware Recommendation Algorithms
+# CAMuMo (Context-Aware MUsic and MOvies) - A Dataset for Evaluating Multi-Domain and Context-Aware Recommendation Algorithms
 
 ![Relational Database Schema](database_schema.png)  
 *Relational Database Schema*
